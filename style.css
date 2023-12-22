@@ -60,7 +60,7 @@ main img {
 .roll-btn {
   border: none;
   border-radius: 0.2em;
-  padding: 0.8em;
+  padding: calc(1rem + 1vw);
   color: white;
   background-color: rgb(156, 6, 12);
   cursor: pointer;
